@@ -8,6 +8,11 @@
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaBasmanov&size_weight=0.0&count_weight=0.5&byte_count=0.5&repo_count=0.5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
+## 👨‍💻 Обо мне
+
+Привет! Меня зовут **Никита** — я фронтенд/фуллстек разработчик, который любит создавать современные веб-приложения.  
+Моя цель — писать понятный, поддерживаемый и эффективный код, а также учиться новым технологиям, чтобы становиться лучше каждый день.
+
 ## Socials
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]("Nicitabasmanov@gmail.com")
