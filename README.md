@@ -6,10 +6,7 @@
 
 <h1 align="center">Привет, меня зовут Никита!!</h1>
 
-<div align="center">
-  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaBasmanov&size_weight=0.0&count_weight=0.5&byte_count=0.5&repo_count=0.5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-</div>
-<!-- ![my photo](public/booooring.jpg "It's me") -->
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=NikitaBasmanov&size_weight=0.0&count_weight=0.5&byte_count=0.5&repo_count=0.5&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
 ## Socials
 
